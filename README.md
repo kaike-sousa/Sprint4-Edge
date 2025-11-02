@@ -61,10 +61,6 @@ O objetivo é acompanhar a **frequência cardíaca durante treinos**, identifica
 
 ---
 
-## Vídeo Demonstrativo
-
-**YouTube:** *[link]*
-
 ---
 
 ## Guia Rápido: Instância EC2 na AWS
@@ -89,7 +85,7 @@ O objetivo é acompanhar a **frequência cardíaca durante treinos**, identifica
 
 ---
 
-## 🔑 Acesso via PuTTY
+## Acesso via PuTTY
 
 * **IP:** *[IP da VM]*
 * **Key:** *[arquivo PPK]*
