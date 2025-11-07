@@ -12,6 +12,10 @@
 
 ---
 
+## 🎥 Vídeo Explicativo: 
+
+https://youtu.be/RJ_UxhDb8As
+
 ## Monitoramento de Batimentos Cardíacos para Atletas
 
 O **PassaBola** realiza **leitura e monitoramento de BPM** em tempo real usando um **ESP32**, enviando dados para uma interface web com gráficos dinâmicos.
